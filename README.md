@@ -30,3 +30,15 @@ various machine learning algorithms can be applied for classification.
 Commonly used algorithms include support vector machines (SVM), decision trees, random forests, and deep neural networks (DNN).
 The performance of these algorithms is typically evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
+
+In this project we will be working on classification of EEG data for Healthy and Patients with Schizophrenia.
+The Dataset we will be using in this paper is : http://dx.doi.org/10.18150/repod.0107441
+
+In the dataverse_files you will find the eeg data for 14 healthy and 14 patients with schizophrenia. The .edf files with "h" are Healthy and with "s" are the patients suffering with schizophrenia.
+
+The dataset comprised 14 patients with paranoid schizophrenia and 14 healthy controls. Data were acquired with the sampling frequency of 250 Hz using the standard 10-20 EEG montage with 19 EEG channels: Fp1, Fp2, F7, F3, Fz, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4, T6, O1, O2. The reference electrode was placed between electrodes Fz and Cz.
+
+Learn the steps to analyze Electroencephalography (EEG) data, including its processing, feature extraction, and classification using sklearn classifiers. Utilizing Machine Learning and EEG, the goal is to categorize the presence of schizophrenia.
+
+
+
