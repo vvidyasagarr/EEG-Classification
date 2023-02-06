@@ -2,6 +2,7 @@
 Classification of EEG data (The Data consists of 14 Healthy and 14 Schizophrenia Patients)
 
 EEG Classification for Schizophrenia
+                                    ![1*pqHh8rgc98nA76zOao60jA](https://user-images.githubusercontent.com/95843454/216945788-5a0852c7-4e3e-4a14-9991-cbd779f0f61c.jpeg)
 
 Introduction
 
