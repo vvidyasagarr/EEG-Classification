@@ -38,7 +38,7 @@ In the dataverse_files you will find the eeg data for 14 healthy and 14 patients
 
 The dataset comprised 14 patients with paranoid schizophrenia and 14 healthy controls. Data were acquired with the sampling frequency of 250 Hz using the standard 10-20 EEG montage with 19 EEG channels: Fp1, Fp2, F7, F3, Fz, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4, T6, O1, O2. The reference electrode was placed between electrodes Fz and Cz.
 
-Learn the steps to analyze Electroencephalography (EEG) data, including its processing, feature extraction, and classification using sklearn classifiers. Utilizing Machine Learning and EEG, the goal is to categorize the presence of schizophrenia.
+Fome the attached Python Notebook you can learn the steps to analyze Electroencephalography (EEG) data, including its processing, feature extraction, and classification using sklearn classifiers. Utilizing Machine Learning and EEG, the goal is to categorize the presence of schizophrenia.
 
 
 
